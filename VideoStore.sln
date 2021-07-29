@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStore", "VideoStore\VideoStore.csproj", "{94304647-5757-4AB7-BEF4-C427C9EED839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStoreTesting", "VideoStoreTesting\VideoStoreTesting.csproj", "{0C22C98A-57ED-403A-A29A-A97E1506F236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94304647-5757-4AB7-BEF4-C427C9EED839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94304647-5757-4AB7-BEF4-C427C9EED839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94304647-5757-4AB7-BEF4-C427C9EED839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94304647-5757-4AB7-BEF4-C427C9EED839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C22C98A-57ED-403A-A29A-A97E1506F236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C22C98A-57ED-403A-A29A-A97E1506F236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C22C98A-57ED-403A-A29A-A97E1506F236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C22C98A-57ED-403A-A29A-A97E1506F236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A9F6935-05DD-42D7-8D9C-613D903C3D1E}
+	EndGlobalSection
+EndGlobal
